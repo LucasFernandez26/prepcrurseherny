@@ -1,2 +1,1 @@
-# prepcrurseherny
-segundo commit henry
+Este proyecto es una pruebna de como crear un repo y clonarlo
